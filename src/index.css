@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #F0F2F5;
+}
+
+input[type=file]::file-selector-button {
+    padding: 8px 24px;
+    border-radius: 8px;
+    border: none;
+
+    background-image: linear-gradient(to right, #3E3D45, #202020);
+    color: #F0F2F5;
+}
+
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    border-radius: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 6px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

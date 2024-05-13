@@ -1,0 +1,23 @@
+
+.plus-input {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 8px 16px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.plus-icon {
+  font-size: 18px;
+  color: #444;
+  margin-right: 8px;
+}
+
+input {
+  flex-grow: 1;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}

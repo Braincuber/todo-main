@@ -1,0 +1,56 @@
+[
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "youth.ncert.papergeneration",
+      "package_name": "youth.ncert.papergeneration",
+      "sha256_cert_fingerprints":
+      ["28:B9:96:5F:2B:58:D4:4C:D1:CB:D4:91:BD:4A:3C:1A:5D:DB:7C:B1:24:BC:36:32:48:D7:6B:0C:5E:EB:94:57"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "youth.ncert.papergeneration",
+      "package_name": "youth.ncert.papergeneration",
+      "sha256_cert_fingerprints":
+        ["F3:FE:6D:DF:6F:FE:09:22:46:00:7B:31:2C:91:E0:F8:61:E0:AE:37:FF:9A:5C:E8:A0:12:12:81:0F:E4:E0:AF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "youth.ncert.papergeneration",
+      "sha256_cert_fingerprints":
+      ["28:B9:96:5F:2B:58:D4:4C:D1:CB:D4:91:BD:4A:3C:1A:5D:DB:7C:B1:24:BC:36:32:48:D7:6B:0C:5E:EB:94:57"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "youth.ncert.papergeneration",
+      "sha256_cert_fingerprints":
+        ["F3:FE:6D:DF:6F:FE:09:22:46:00:7B:31:2C:91:E0:F8:61:E0:AE:37:FF:9A:5C:E8:A0:12:12:81:0F:E4:E0:AF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "youth.ncert.papergeneration",
+      "sha256_cert_fingerprints":
+        ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "youth.ncert.papergeneration",
+      "package_name": "youth.ncert.papergeneration",
+      "sha256_cert_fingerprints":
+        ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+    }
+  }
+]
